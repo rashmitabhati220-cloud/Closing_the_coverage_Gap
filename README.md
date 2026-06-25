@@ -1,4 +1,5 @@
-<img width="1083" height="525" alt="Screenshot 2026-06-25 at 10 11 24 PM" src="https://github.com/user-attachments/assets/e27892ef-7a17-4948-bf51-dbc475d7589c" />
+<img width="1083" height="525" alt="Screenshot 2026-06-25 at 10 11 24 PM" src="https://github.com/user-attachments/assets/2f7f395c-c4a9-49d7-94ac-6199d0f4f431" />
+
 
 # Closing the Coverage Gap
 
