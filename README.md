@@ -1,6 +1,3 @@
-<img width="1083" height="525" alt="Screenshot 2026-06-25 at 10 11 24 PM" src="https://github.com/user-attachments/assets/2f7f395c-c4a9-49d7-94ac-6199d0f4f431" />
-
-
 # Closing the Coverage Gap
 
 Analysis of insurance coverage, healthcare access, and emergency response among ~10,000 heart-attack-risk patients across 28 Indian states.
